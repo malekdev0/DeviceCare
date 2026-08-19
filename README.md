@@ -21,4 +21,4 @@ Technology used:
 <img width="360" height="800" alt="Main" src="https://github.com/user-attachments/assets/a50f7170-69a5-49b7-837c-fbc16ef88f54" />
 <img width="360" height="800" alt="hardware tests" src="https://github.com/user-attachments/assets/d357fd91-c39c-4841-8571-39852ceb3a29" />
 <img width="360" height="800" alt="cpu" src="https://github.com/user-attachments/assets/8e031f2f-7c10-43a4-b258-76ae767a1780" />
-<img width="720" height="1600" alt="Charging" src="https://github.com/user-attachments/assets/e206619f-9751-472a-928e-936a970813da" />
+<img width="360" height="800" alt="Charging" src="https://github.com/user-attachments/assets/e206619f-9751-472a-928e-936a970813da" />
